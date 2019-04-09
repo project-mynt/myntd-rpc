@@ -1,10 +1,10 @@
 {
   "name": "myntd-rpc",
   "description": "Myntcoin Client Library to connect to Myntcoin via RPC",
-  "version": "1.0.3",
+  "version": "1.0.0",
   "author": {
-    "name": "Under",
-    "email": ""
+    "name": "Silence",
+    "email": "Silence@rpgcoin.gg"
   },
   "keywords": [
     "myntcoin",
